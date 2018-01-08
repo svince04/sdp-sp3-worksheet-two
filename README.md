@@ -16,7 +16,7 @@ emits the interface of the class (interface or class, modifiers, constructors, m
  You should see how a Java program behaves when provided as an argument to this program.
 
 2. Write a program that reads a class name and a list of arguments, 
-and creates an object of that class where the read arguments are passed to the constructor.
+and creates an object of that class where the arguments are passed to the constructor.
 
 	Hint: Treat arguments as strings. 
 	A `Class` can enumerate its constructors. 
